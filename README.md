@@ -1,33 +1,50 @@
-# Data-Analytics-Portfolio
 # Aashima Sanduja — Data Analytics Portfolio
 
-Welcome to my data analytics portfolio. This repository contains projects demonstrating my skills in Python, SQL, Tableau, Power BI, and Advanced Excel.
+Data Analyst focused on transforming raw data into actionable business insights using Python, SQL, Tableau, and Power BI.  
+This portfolio showcases applied analytics projects covering customer behavior and sales performance analysis.
 
 ---
 
-## Skills
+## Technical Skills
+
 - Python (Pandas, NumPy)
 - SQL
 - Tableau
 - Power BI
 - Advanced Excel
 - Data Cleaning & Visualization
+- Exploratory Data Analysis
+- KPI Reporting
 
 ---
 
 ## Projects
 
 ### 1. Customer Churn Analysis
-Analyzing customer retention patterns and churn drivers using Python and Tableau.
+Business-focused analysis identifying key drivers of customer attrition and retention strategies.
 
-### 2. Superstore Sales Dashboard
-Revenue and profit performance analysis with business insights.
+**Tools Used:** Python, Tableau  
+[View Project →](./Customer-Churn-Analysis)
 
 ---
 
-Each project includes:
-- Business problem statement
-- Data cleaning steps
-- Dashboard screenshots
+### 2. Superstore Sales Dashboard
+Revenue and profitability analysis to support strategic decision-making.
+
+**Tools Used:** Power BI / Tableau  
+[View Project →](./Superstore-Sales-Analysis)
+
+---
+
+## What Each Project Demonstrates
+
+- Business problem definition
+- Data cleaning and transformation
+- Analytical reasoning
+- Dashboard visualization
 - Key insights
 - Business recommendations
+
+---
+
+📫 Connect with me on LinkedIn: (add your LinkedIn URL here)
