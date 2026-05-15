@@ -1,4 +1,9 @@
-# Aashima Sanduja — Data Analytics Portfolio
+<h1 align="center">Hi, I'm Aashima Sanduja 👋</h1>
+
+<p align="center">
+  📊 Aspiring Data Analyst &nbsp;|&nbsp; BBA Final Year &nbsp;|&nbsp; Delhi, India
+</p>
+
 
 Data Analyst focused on transforming raw data into actionable business insights using Python, SQL, Tableau, and Power BI.  
 This portfolio showcases applied analytics projects covering customer behavior and sales performance analysis.
@@ -47,4 +52,5 @@ Revenue and profitability analysis to support strategic decision-making.
 
 ---
 
-📫 Connect with me on LinkedIn: (add your LinkedIn URL here)
+📫 Connect with me on LinkedIn: www.linkedin.com/in/aashimasanduja
+
