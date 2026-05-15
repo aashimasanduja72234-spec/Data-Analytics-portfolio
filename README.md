@@ -24,7 +24,8 @@ Welcome to my data analytics portfolio! This repository is an index of all my pr
 
 ## 📬 Contact
 
-- LinkedIn: *[add your link here]*
+- LinkedIn: www.linkedin.com/in/aashimasanduja
+
 - GitHub: [aashimasanduja72234-spec](https://github.com/aashimasanduja72234-spec)
 
 ---
