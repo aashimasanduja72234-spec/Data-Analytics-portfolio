@@ -8,9 +8,9 @@ Welcome to my data analytics portfolio! This repository is an index of all my pr
 
 | Project | Tools | Description | Status |
 |---|---|---|---|
-| [Customer Churn Analysis](https://github.com/aashimasanduja72234-spec/customer-churn-dashboard) | Power BI, Excel | Identified key drivers of customer attrition and retention strategies | ✅ Live |
-| Superstore Sales Dashboard | Power BI, Excel | Revenue and profitability analysis | 🔄 Uploading Soon |
-| Amazon Sales Analysis | SQL | Product and category trend analysis | 🔄 Uploading Soon |
+| [Customer Churn Analysis](https://github.com/aashimasanduja72234-spec/Data-Analytics-portfolio/tree/main/customer-churn-dashboard) | Power BI, Excel | Identified key drivers of customer attrition and retention strategies | ✅ Live |
+| [Superstore Sales Dashboard](https://github.com/aashimasanduja72234-spec/Superstore-Sales-Dashboard) | Power BI, Excel | Revenue and profitability analysis | ✅ Live |
+| [Amazon Sales Analysis](https://github.com/aashimasanduja72234-spec/Amazon-Sales-Analysis) | SQL | Product and category trend analysis | ✅ Live |
 
 ---
 
