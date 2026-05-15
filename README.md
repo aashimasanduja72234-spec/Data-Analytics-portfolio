@@ -28,15 +28,15 @@ This portfolio showcases applied analytics projects covering customer behavior a
 ### 1. Customer Churn Analysis
 Business-focused analysis identifying key drivers of customer attrition and retention strategies.
 
-**Tools Used:** Python, Tableau  
-[View Project →](./Customer-Churn-Analysis)
+**Tools Used:** Microsoft Excel, Power BI
+[View Project →] SUPER STORE DASHBOARD.pbix
 
 ---
 
 ### 2. Superstore Sales Dashboard
 Revenue and profitability analysis to support strategic decision-making.
 
-**Tools Used:** Power BI / Tableau  
+**Tools Used:** Microsoft Excel, Power BI
 [View Project →](./Superstore-Sales-Analysis)
 
 ---
